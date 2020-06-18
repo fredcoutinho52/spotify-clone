@@ -1,6 +1,6 @@
 # Spotify Clone
 
-A Spotify mobile app clone.
+A Spotify mobile app UI clone.
 
 ## Made with
 
